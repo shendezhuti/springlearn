@@ -15,6 +15,8 @@ public class Bean1 {
         this.bean2 = bean2;
     }
 
+
+
     @Override
     public String toString() {
         return "Bean1{" +
